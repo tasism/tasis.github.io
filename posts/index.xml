@@ -6,7 +6,16 @@
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Sep 2021 21:26:52 +0200</lastBuildDate><atom:link href="https://tasism.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Sep 2021 22:29:36 +0200</lastBuildDate><atom:link href="https://tasism.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two</title>
+      <link>https://tasism.github.io/posts/two/</link>
+      <pubDate>Tue, 21 Sep 2021 22:29:36 +0200</pubDate>
+      
+      <guid>https://tasism.github.io/posts/two/</guid>
+      <description>yes, and a second one! yeap!</description>
+    </item>
+    
     <item>
       <title>One</title>
       <link>https://tasism.github.io/posts/one/</link>
